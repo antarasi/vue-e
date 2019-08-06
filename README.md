@@ -11,3 +11,5 @@ yarn
 npm run dev
 
 ```
+
+> The issue is already fixed: https://github.com/antarasi/vue-e/commit/5c5278f84e42c50f267c21cb41a9298a13d46773
