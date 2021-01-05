@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@feathersjs/client": "^3.7.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.3",
     "chart.js": "^2.7.3",
     "electron-store": "^2.0.0",
