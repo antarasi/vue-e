@@ -59,7 +59,7 @@
     "@feathersjs/client": "^3.7.8",
     "axios": "^0.18.0",
     "bluebird": "^3.5.3",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "electron-store": "^2.0.0",
     "electron-updater": "^4.0.6",
     "element-ui": "^2.11.1",
